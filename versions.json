@@ -1,4 +1,5 @@
 {
   "discord_security_bot": "6.0.0",
-  "ban_database": "2.0.0"
+  "ban_database": "2.0.0",
+  "dsb_convert_bandb": "1.0.0"
 }
