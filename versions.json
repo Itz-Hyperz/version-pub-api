@@ -1,6 +1,6 @@
 {
   "discord_security_bot": "6.0.0",
-  "ban_database": "2.2.0",
+  "ban_database": "2.2.1",
   "dsb_convert_bandb": "1.0.0",
   "nodelogger": "3.7.3"
 }
