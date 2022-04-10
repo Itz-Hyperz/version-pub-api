@@ -4,5 +4,6 @@
   "dsb_convert_bandb": "2.0.0",
   "nodelogger": "3.7.3",
   "verbatim": "1.0.1",
-  "darkbot": "1.1.0"
+  "darkbot": "1.1.0",
+  "imageengine": "1.0.0"
 }
