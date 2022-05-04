@@ -2,5 +2,17 @@
   {
     "name": "darkbot",
     "productId": "33"
+  },
+  {
+    "name": "imageengine",
+    "productId": "35"
+  },
+  {
+    "name": "bandatabase",
+    "productId": "6"
+  },
+  {
+    "name": "creditauth",
+    "productId": "37"
   }
 ]
