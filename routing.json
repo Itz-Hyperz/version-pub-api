@@ -26,5 +26,9 @@
   {
     "name": "creditauth",
     "productId": "37"
+  },
+  {
+    "name": "bubblebot",
+    "productId": "37"
   }
 ]
