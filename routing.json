@@ -34,5 +34,9 @@
   {
     "name": "portfolio",
     "productId": "57"
+  },
+  {
+    "name": "boards",
+    "productId": "58"
   }
 ]
