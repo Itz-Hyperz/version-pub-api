@@ -6,5 +6,6 @@
   "imageengine": "1.4.0",
   "formssystem": "1.0.3",
   "communitysite": "1.0.1",
-  "portfolio": "1.0.0"
+  "portfolio": "1.0.0",
+  "boards": "1.0.0"
 }
