@@ -1,34 +1,32 @@
 [
   {
     "name": "darkbotlifetime",
-    "productId": "iLidhI7QlwuVDI"
+    "productId": "iLidhI7QlwuVDI",
+    "useCloud": true
   },
   {
     "name": "darkbot",
-    "productId": "iLidhI7QlwuVDI"
+    "productId": "iLidhI7QlwuVDI",
+    "useCloud": true
   },
   {
     "name": "imageengine",
-    "productId": "TvrmibE4RDQ8xY"
-  },
-  {
-    "name": "bandatabase",
-    "productId": "sal227xWTVdci9"
+    "productId": "TvrmibE4RDQ8xY",
+    "useCloud": true
   },
   {
     "name": "creditauth",
-    "productId": "cPL0v056nCXK5U"
-  },
-  {
-    "name": "bubblebot",
-    "productId": "cRmfkwBZVybe7R"
+    "productId": "cPL0v056nCXK5U",
+    "useCloud": true
   },
   {
     "name": "portfolio",
-    "productId": "txjrfW3beTi77O"
+    "productId": "txjrfW3beTi77O",
+    "useCloud": true
   },
   {
     "name": "paymentsystem",
-    "productId": "oQj7pXL5DqKob2"
+    "productId": "oQj7pXL5DqKob2",
+    "useCloud": true
   }
 ]
