@@ -23,5 +23,10 @@
     "name": "paymentsystem",
     "productId": "16731355145286Hp6hul9F1iTcb",
     "useCloud": true
+  },
+  {
+    "name": "bossdocs",
+    "productId": "1673825471279LL3UbKdvrL9zGQ",
+    "useCloud": true
   }
 ]
