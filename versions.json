@@ -5,9 +5,9 @@
   "imageengine": "1.4.0",
   "portfolio": "1.0.0",
   "paymentsystem": "1.2.0",
-  "bossdocs": "1.0.1",
-  "bosscdn": "1.0.0",
-  "bosslocker": "1.0.0",
-  "bossbooks": "1.0.0",
-  "bosssupport": "1.0.0"
+  "docssystem": "1.0.1",
+  "cdnsystem": "1.0.0",
+  "encryptionsystem": "1.0.0",
+  "bookingsystem": "1.0.0",
+  "supportsystem": "1.0.0"
 }
