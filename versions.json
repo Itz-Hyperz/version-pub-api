@@ -5,11 +5,11 @@
   "imageengine": "1.4.0",
   "portfolio": "1.0.0",
   "paymentsystem": "1.2.0",
-  "bosswebstore": "1.0.0",
-  "docssystem": "1.0.1",
-  "cdnsystem": "1.0.0",
+  "bosswebstore": "1.0.0 - Made by https://boss.software",
+  "docssystem": "1.0.1 - Made by https://boss.software",
+  "cdnsystem": "1.0.0 - Made by https://boss.software",
   "encryptionsystem": "1.0.0",
-  "bookingsystem": "1.0.0",
-  "supportsystem": "1.0.0",
+  "bookingsystem": "1.0.0 - Made by https://boss.software",
+  "supportsystem": "1.0.0 - Made by https://boss.software",
   "huracanstore": "1.0.0"
 }
